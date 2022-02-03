@@ -3,3 +3,7 @@
 -- \i 'C:\\projects\\training\\postgres_database\\db_creation.sql
 
 DROP DATABASE IF EXISTS stocks;
+
+CREATE DATABASE stocks;
+
+CREATE TABLE
