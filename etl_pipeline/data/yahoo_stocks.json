@@ -1,0 +1,2966 @@
+[
+    {
+        "symbol": "ABCT.TO",
+        "name": "ABC Tech Holdings"
+    },
+    {
+        "symbol": "AAB.TO",
+        "name": "Aberdeen Int'l. J"
+    },
+    {
+        "symbol": "ABST.TO",
+        "name": "Absolute Software J"
+    },
+    {
+        "symbol": "ADN.TO",
+        "name": "Acadian Timber Corp."
+    },
+    {
+        "symbol": "ACD.TO",
+        "name": "Accord Financial"
+    },
+    {
+        "symbol": "ASP.TO",
+        "name": "Acerus Pharma Corp J"
+    },
+    {
+        "symbol": "ARA.TO",
+        "name": "Aclara Res Inc. J"
+    },
+    {
+        "symbol": "AT.TO",
+        "name": "AcuityAds Hldgs J"
+    },
+    {
+        "symbol": "ADCO.TO",
+        "name": "Adcore Inc. J"
+    },
+    {
+        "symbol": "DRX.TO",
+        "name": "ADF Group Inc. SV"
+    },
+    {
+        "symbol": "AAV.TO",
+        "name": "Advantage Energy Ltd"
+    },
+    {
+        "symbol": "ARE.TO",
+        "name": "Aecon Group Inc."
+    },
+    {
+        "symbol": "AEG.TO",
+        "name": "Aegis Brands Inc."
+    },
+    {
+        "symbol": "AEZS.TO",
+        "name": "AEterna Zentaris Inc"
+    },
+    {
+        "symbol": "AOI.TO",
+        "name": "Africa Oil Corp. J"
+    },
+    {
+        "symbol": "AFN.TO",
+        "name": "Ag Growth Int'l Inc."
+    },
+    {
+        "symbol": "AGF.B.TO",
+        "name": "AGF Management B NV"
+    },
+    {
+        "symbol": "AEM.TO",
+        "name": "Agnico Eagle Mines"
+    },
+    {
+        "symbol": "AIM.TO",
+        "name": "Aimia Inc."
+    },
+    {
+        "symbol": "AC.TO",
+        "name": "Air Canada Vote & VV"
+    },
+    {
+        "symbol": "BOS.TO",
+        "name": "Airboss of America J"
+    },
+    {
+        "symbol": "AKT.A.TO",
+        "name": "Akita Drill Cl A NV"
+    },
+    {
+        "symbol": "AKU.TO",
+        "name": "Akumin Inc. J"
+    },
+    {
+        "symbol": "AGI.TO",
+        "name": "Alamos Gold Inc. J"
+    },
+    {
+        "symbol": "CLIQ.TO",
+        "name": "Alcanna Inc."
+    },
+    {
+        "symbol": "AH.TO",
+        "name": "Aleafia Health J"
+    },
+    {
+        "symbol": "AXU.TO",
+        "name": "Alexco Resource J"
+    },
+    {
+        "symbol": "ALC.TO",
+        "name": "Algoma Central Corp"
+    },
+    {
+        "symbol": "ASTL.TO",
+        "name": "Algoma Steel Grp Inc"
+    },
+    {
+        "symbol": "AQN.TO",
+        "name": "Algonquin Pwr & Util"
+    },
+    {
+        "symbol": "ATD.TO",
+        "name": "Alimentation Cl A"
+    },
+    {
+        "symbol": "ALYA.TO",
+        "name": "Alithya Group J A SV"
+    },
+    {
+        "symbol": "AKE.TO",
+        "name": "Allkem Limited Ord J"
+    },
+    {
+        "symbol": "AMM.TO",
+        "name": "Almaden Minerals"
+    },
+    {
+        "symbol": "AII.TO",
+        "name": "Almonty Industries J"
+    },
+    {
+        "symbol": "ALA.TO",
+        "name": "AltaGas Ltd."
+    },
+    {
+        "symbol": "ALS.TO",
+        "name": "Altius Minerals Corp"
+    },
+    {
+        "symbol": "ARR.TO",
+        "name": "Altius RenewRoylty J"
+    },
+    {
+        "symbol": "AIF.TO",
+        "name": "Altus Group Limited"
+    },
+    {
+        "symbol": "USA.TO",
+        "name": "Americas Gold Slvr J"
+    },
+    {
+        "symbol": "ARG.TO",
+        "name": "Amerigo Resources J"
+    },
+    {
+        "symbol": "ANX.TO",
+        "name": "Anaconda Mining J"
+    },
+    {
+        "symbol": "ANRG.TO",
+        "name": "Anaergia Inc. J SV "
+    },
+    {
+        "symbol": "AND.TO",
+        "name": "AndlauerHlthcr GrpSV"
+    },
+    {
+        "symbol": "ADW.A.TO",
+        "name": "Andrew Peller A NV"
+    },
+    {
+        "symbol": "APY.TO",
+        "name": "Anglo Pacific Ord"
+    },
+    {
+        "symbol": "ATE.TO",
+        "name": "Antibe Therapeutic J"
+    },
+    {
+        "symbol": "APLI.TO",
+        "name": "Appili Therapeutcs J"
+    },
+    {
+        "symbol": "APS.TO",
+        "name": "Aptose Biosciences"
+    },
+    {
+        "symbol": "ARX.TO",
+        "name": "ARC Resources Ltd."
+    },
+    {
+        "symbol": "AR.TO",
+        "name": "Argonaut Gold Inc. J"
+    },
+    {
+        "symbol": "ARIS.TO",
+        "name": "Aris Gold Corp J"
+    },
+    {
+        "symbol": "ATZ.TO",
+        "name": "Aritzia Inc. SV"
+    },
+    {
+        "symbol": "ASCU.TO",
+        "name": "Arizona Sonoran J"
+    },
+    {
+        "symbol": "ASND.TO",
+        "name": "Ascendant Res J"
+    },
+    {
+        "symbol": "AOT.TO",
+        "name": "Ascot Resources J"
+    },
+    {
+        "symbol": "AYM.TO",
+        "name": "Atalaya Mining Ord J"
+    },
+    {
+        "symbol": "ATH.TO",
+        "name": "Athabasca Oil Corp J"
+    },
+    {
+        "symbol": "AI.TO",
+        "name": "Atrium Mtg Invest"
+    },
+    {
+        "symbol": "ATA.TO",
+        "name": "ATS Automation Tool"
+    },
+    {
+        "symbol": "G.TO",
+        "name": "Augusta Gold Corp. J"
+    },
+    {
+        "symbol": "ORA.TO",
+        "name": "Aura Minerals Inc. J"
+    },
+    {
+        "symbol": "ACB.TO",
+        "name": "Aurora Cannabis J"
+    },
+    {
+        "symbol": "ACQ.TO",
+        "name": "AutoCanada Inc."
+    },
+    {
+        "symbol": "XLY.TO",
+        "name": "Auxly Cannabis Grp J"
+    },
+    {
+        "symbol": "AVL.TO",
+        "name": "Avalon Advncd Mtrl J"
+    },
+    {
+        "symbol": "AVNT.TO",
+        "name": "Avant Brands Inc. J"
+    },
+    {
+        "symbol": "AVP.TO",
+        "name": "Avcorp Industries"
+    },
+    {
+        "symbol": "AVCN.TO",
+        "name": "Avicanna Inc. J"
+    },
+    {
+        "symbol": "ASM.TO",
+        "name": "Avino Silver & Gld J"
+    },
+    {
+        "symbol": "AYA.TO",
+        "name": "Aya Gold & Silvr J"
+    },
+    {
+        "symbol": "ABX.TO",
+        "name": "Barrick Gold Corp"
+    },
+    {
+        "symbol": "AUMN.TO",
+        "name": "Golden Minerals J"
+    },
+    {
+        "symbol": "BTO.TO",
+        "name": "B2Gold Corp."
+    },
+    {
+        "symbol": "BDGI.TO",
+        "name": "Badger Infras Solutn"
+    },
+    {
+        "symbol": "BLDP.TO",
+        "name": "Ballard Power Sys"
+    },
+    {
+        "symbol": "BMO.TO",
+        "name": "Bank of Montreal"
+    },
+    {
+        "symbol": "BNS.TO",
+        "name": "Bank of Nova Scotia"
+    },
+    {
+        "symbol": "BHC.TO",
+        "name": "Bausch Health Co"
+    },
+    {
+        "symbol": "BYL.TO",
+        "name": "Baylin Tech Inc. J"
+    },
+    {
+        "symbol": "BTE.TO",
+        "name": "Baytex Energy Corp."
+    },
+    {
+        "symbol": "BBTV.TO",
+        "name": "BBTV Hldgs Inc J SV"
+    },
+    {
+        "symbol": "BCE.TO",
+        "name": "BCE Inc."
+    },
+    {
+        "symbol": "BEK.B.TO",
+        "name": "Becker Milk Cl B NV"
+    },
+    {
+        "symbol": "BLU.TO",
+        "name": "BELLUS Health Inc."
+    },
+    {
+        "symbol": "BSX.TO",
+        "name": "Belo Sun Mining J"
+    },
+    {
+        "symbol": "BNG.TO",
+        "name": "Bengal Energy Ltd. J"
+    },
+    {
+        "symbol": "BR.TO",
+        "name": "Big Rock Brewery Inc"
+    },
+    {
+        "symbol": "BIR.TO",
+        "name": "Birchcliff Energy"
+    },
+    {
+        "symbol": "BDT.TO",
+        "name": "Bird Construction "
+    },
+    {
+        "symbol": "BDI.TO",
+        "name": "Black Diamond Group"
+    },
+    {
+        "symbol": "BKI.TO",
+        "name": "Black Iron Inc. J"
+    },
+    {
+        "symbol": "BB.TO",
+        "name": "BlackBerry Limited"
+    },
+    {
+        "symbol": "BLN.TO",
+        "name": "Blackline Safety J"
+    },
+    {
+        "symbol": "GBT.TO",
+        "name": "BMTC Group Inc."
+    },
+    {
+        "symbol": "BRMI.TO",
+        "name": "Boat RockrMedia J SV"
+    },
+    {
+        "symbol": "BBD.A.TO",
+        "name": "Bombardier Cl A MV"
+    },
+    {
+        "symbol": "BNE.TO",
+        "name": "Bonterra Energy Corp"
+    },
+    {
+        "symbol": "BLX.TO",
+        "name": "Boralex Inc. Cl A"
+    },
+    {
+        "symbol": "BYD.TO",
+        "name": "Boyd Group Services"
+    },
+    {
+        "symbol": "BRAG.TO",
+        "name": "Bragg Gaming Grp Inc"
+    },
+    {
+        "symbol": "BRY.TO",
+        "name": "Bri-Chem Corp."
+    },
+    {
+        "symbol": "BCT.TO",
+        "name": "BriaCell TherapeutcJ"
+    },
+    {
+        "symbol": "BRE.TO",
+        "name": "Bridgemarq Rl Est RV"
+    },
+    {
+        "symbol": "BAM.A.TO",
+        "name": "Brookfld Asset A LV"
+    },
+    {
+        "symbol": "BAMR.TO",
+        "name": "Brookfld MgtReinsrLV"
+    },
+    {
+        "symbol": "BIPC.TO",
+        "name": "Brookfld Infras A SV"
+    },
+    {
+        "symbol": "BEPC.TO",
+        "name": "Brookfld RenewA ExSV"
+    },
+    {
+        "symbol": "DOO.TO",
+        "name": "BRP Inc. SV"
+    },
+    {
+        "symbol": "BUI.TO",
+        "name": "Buhler Industries"
+    },
+    {
+        "symbol": "BU.TO",
+        "name": "Burcon NutraSci J"
+    },
+    {
+        "symbol": "BK.TO",
+        "name": "Cdn Banc Corp Cl 'A'"
+    },
+    {
+        "symbol": "BABY.TO",
+        "name": "Else Nutrition J"
+    },
+    {
+        "symbol": "CAE.TO",
+        "name": "CAE Inc."
+    },
+    {
+        "symbol": "CWL.TO",
+        "name": "Caldwell Partners"
+    },
+    {
+        "symbol": "CFW.TO",
+        "name": "Calfrac Well Serv"
+    },
+    {
+        "symbol": "CGY.TO",
+        "name": "Calian Group Ltd."
+    },
+    {
+        "symbol": "CXB.TO",
+        "name": "Calibre Mining Corp."
+    },
+    {
+        "symbol": "CCO.TO",
+        "name": "Cameco Corporation"
+    },
+    {
+        "symbol": "CF.TO",
+        "name": "Canaccord Genuity"
+    },
+    {
+        "symbol": "CNE.TO",
+        "name": "Canacol Energy J"
+    },
+    {
+        "symbol": "GOOS.TO",
+        "name": "Cda Goose Hldgs SV"
+    },
+    {
+        "symbol": "CGI.TO",
+        "name": "Canadian General Inv"
+    },
+    {
+        "symbol": "CM.TO",
+        "name": "Cdn Imperial Bank"
+    },
+    {
+        "symbol": "CNR.TO",
+        "name": "Cdn Nat'l Railway"
+    },
+    {
+        "symbol": "CNQ.TO",
+        "name": "Canadian Natural Res"
+    },
+    {
+        "symbol": "CP.TO",
+        "name": "Cdn Pacific Railway"
+    },
+    {
+        "symbol": "CTC.TO",
+        "name": "Canadian Tire Corp"
+    },
+    {
+        "symbol": "CU.TO",
+        "name": "Cdn Utilities A NV"
+    },
+    {
+        "symbol": "CWB.TO",
+        "name": "Cdn Wstrn Bank"
+    },
+    {
+        "symbol": "CCM.TO",
+        "name": "Canagold Res Ltd. J"
+    },
+    {
+        "symbol": "DNT.TO",
+        "name": "Candente Copper J"
+    },
+    {
+        "symbol": "CFP.TO",
+        "name": "Canfor Corporation"
+    },
+    {
+        "symbol": "CFX.TO",
+        "name": "Canfor Pulp Products"
+    },
+    {
+        "symbol": "ICE.TO",
+        "name": "Canlan Ice Sports"
+    },
+    {
+        "symbol": "WEED.TO",
+        "name": "Canopy Grwth Corp J"
+    },
+    {
+        "symbol": "CPX.TO",
+        "name": "Capital Power Corp."
+    },
+    {
+        "symbol": "CS.TO",
+        "name": "Capstone Mining J"
+    },
+    {
+        "symbol": "CJ.TO",
+        "name": "Cardinal Energy J"
+    },
+    {
+        "symbol": "CRDL.TO",
+        "name": "Cardiol Therapeutc A"
+    },
+    {
+        "symbol": "CRRX.TO",
+        "name": "CareRx Corp. J"
+    },
+    {
+        "symbol": "CJT.TO",
+        "name": "Cargojet Inc. Com&VV"
+    },
+    {
+        "symbol": "CAS.TO",
+        "name": "Cascades Inc."
+    },
+    {
+        "symbol": "CET.TO",
+        "name": "Cathedral Engy Serv"
+    },
+    {
+        "symbol": "CCL.A.TO",
+        "name": "CCL Industries Cl A"
+    },
+    {
+        "symbol": "CLS.TO",
+        "name": "Celestica Inc SV"
+    },
+    {
+        "symbol": "CVE.TO",
+        "name": "Cenovus Energy Inc."
+    },
+    {
+        "symbol": "CEE.TO",
+        "name": "Centamin plc. Ord"
+    },
+    {
+        "symbol": "CG.TO",
+        "name": "Centerra Gold Inc."
+    },
+    {
+        "symbol": "CNT.TO",
+        "name": "Century Glbl Cmdty J"
+    },
+    {
+        "symbol": "CRP.TO",
+        "name": "Ceres Global Ag Corp"
+    },
+    {
+        "symbol": "CDAY.TO",
+        "name": "Ceridian HCM Hldg J"
+    },
+    {
+        "symbol": "CEU.TO",
+        "name": "CES Energy Solutn"
+    },
+    {
+        "symbol": "GIB.A.TO",
+        "name": "CGI Inc. Cl A SV"
+    },
+    {
+        "symbol": "CIA.TO",
+        "name": "Champion Iron Ord J"
+    },
+    {
+        "symbol": "CWEB.TO",
+        "name": "Charlotte's Web Hldg"
+    },
+    {
+        "symbol": "CHW.TO",
+        "name": "Chesswood Group Ltd."
+    },
+    {
+        "symbol": "CGG.TO",
+        "name": "China Gld Intl Res J"
+    },
+    {
+        "symbol": "CHR.TO",
+        "name": "Chorus Aviation V&VV"
+    },
+    {
+        "symbol": "CIX.TO",
+        "name": "CI Financial Corp."
+    },
+    {
+        "symbol": "CGAA.TO",
+        "name": "CI GlbAsstAlloc C$Sr"
+    },
+    {
+        "symbol": "CINF.TO",
+        "name": "CI GlbInfrasPrivPl$C"
+    },
+    {
+        "symbol": "CGRA.TO",
+        "name": "CI GlbRlAsetPrivPlC$"
+    },
+    {
+        "symbol": "CCNS.TO",
+        "name": "CIBC ConservFixdIncm"
+    },
+    {
+        "symbol": "CCRE.TO",
+        "name": "CIBC CoreFixdIncm Un"
+    },
+    {
+        "symbol": "CPLS.TO",
+        "name": "CIBC Core+Fixed Incm"
+    },
+    {
+        "symbol": "CMUE.TO",
+        "name": "CIBC Multfactr US Eq"
+    },
+    {
+        "symbol": "MBA.TO",
+        "name": "CIBT Education Grp J"
+    },
+    {
+        "symbol": "CGX.TO",
+        "name": "Cineplex Inc."
+    },
+    {
+        "symbol": "CPH.TO",
+        "name": "Cipher Pharma J"
+    },
+    {
+        "symbol": "CVG.TO",
+        "name": "Clairvest Group Inc"
+    },
+    {
+        "symbol": "CKI.TO",
+        "name": "Clarke Inc."
+    },
+    {
+        "symbol": "CSM.TO",
+        "name": "ClearStream Energy"
+    },
+    {
+        "symbol": "CCA.TO",
+        "name": "Cogeco Commun Inc SV"
+    },
+    {
+        "symbol": "CGO.TO",
+        "name": "Cogeco Inc. SV"
+    },
+    {
+        "symbol": "GCL.TO",
+        "name": "Colabor Group Inc."
+    },
+    {
+        "symbol": "CIGI.TO",
+        "name": "Colliers Intl Grp SV"
+    },
+    {
+        "symbol": "CMG.TO",
+        "name": "Computer Modelling J"
+    },
+    {
+        "symbol": "COG.TO",
+        "name": "Condor Gold plc J"
+    },
+    {
+        "symbol": "CPI.TO",
+        "name": "Condor Petroleum J"
+    },
+    {
+        "symbol": "CFF.TO",
+        "name": "Conifex Timber Inc."
+    },
+    {
+        "symbol": "CSU.TO",
+        "name": "Constellation Softwr"
+    },
+    {
+        "symbol": "CTS.TO",
+        "name": "Converge TechSoltn J"
+    },
+    {
+        "symbol": "CMMC.TO",
+        "name": "Copper Mountain J"
+    },
+    {
+        "symbol": "CPLF.TO",
+        "name": "Copperleaf Tech J"
+    },
+    {
+        "symbol": "CSW.A.TO",
+        "name": "Corby Spirit&Wine A"
+    },
+    {
+        "symbol": "CJR.B.TO",
+        "name": "Corus Entertnmnt B"
+    },
+    {
+        "symbol": "CVO.TO",
+        "name": "Coveo Solution J SV"
+    },
+    {
+        "symbol": "CPG.TO",
+        "name": "Crescent Point Corp."
+    },
+    {
+        "symbol": "CTX.TO",
+        "name": "Crescita Therpeutc J"
+    },
+    {
+        "symbol": "CR.TO",
+        "name": "Crew Energy Inc."
+    },
+    {
+        "symbol": "CRON.TO",
+        "name": "Cronos Group Inc. J"
+    },
+    {
+        "symbol": "CRWN.TO",
+        "name": "Crown Cap Partners J"
+    },
+    {
+        "symbol": "CUB.TO",
+        "name": "CubicFarm Systems J"
+    },
+    {
+        "symbol": "CXI.TO",
+        "name": "Currency Exch Intl J"
+    },
+    {
+        "symbol": "CYB.TO",
+        "name": "Cymbria Corp Cl A NV"
+    },
+    {
+        "symbol": "CARE.TO",
+        "name": "Dialogue Hlth Tech J"
+    },
+    {
+        "symbol": "DBO.TO",
+        "name": "D-Box Tech Inc. A J"
+    },
+    {
+        "symbol": "DTOL.TO",
+        "name": "D2L Inc. J SV"
+    },
+    {
+        "symbol": "DCM.TO",
+        "name": "Data Commun Mgt"
+    },
+    {
+        "symbol": "DFY.TO",
+        "name": "Definity Fin Corp."
+    },
+    {
+        "symbol": "DN.TO",
+        "name": "Delta 9 Cannabis J"
+    },
+    {
+        "symbol": "DML.TO",
+        "name": "Denison Mines Corp"
+    },
+    {
+        "symbol": "DNTL.TO",
+        "name": "dentalcorp Hldg J SV"
+    },
+    {
+        "symbol": "DSG.TO",
+        "name": "Descartes Systems"
+    },
+    {
+        "symbol": "DXT.TO",
+        "name": "Dexterra Group Inc J"
+    },
+    {
+        "symbol": "DRT.TO",
+        "name": "DIRTT Env Solution J"
+    },
+    {
+        "symbol": "DIV.TO",
+        "name": "Divers Rylty Corp."
+    },
+    {
+        "symbol": "DS.TO",
+        "name": "Dividend Select 15Eq"
+    },
+    {
+        "symbol": "DCBO.TO",
+        "name": "Docebo Inc. J"
+    },
+    {
+        "symbol": "DOL.TO",
+        "name": "Dollarama Inc."
+    },
+    {
+        "symbol": "DBM.TO",
+        "name": "Doman Bldg Materials"
+    },
+    {
+        "symbol": "DLCG.TO",
+        "name": "Dominion Lending J A"
+    },
+    {
+        "symbol": "DII.A.TO",
+        "name": "Dorel Ind Inc A MV"
+    },
+    {
+        "symbol": "DRM.TO",
+        "name": "DREAM Unltd Cl A SV"
+    },
+    {
+        "symbol": "DC.A.TO",
+        "name": "Dundee Corp. Cl A SV"
+    },
+    {
+        "symbol": "DPM.TO",
+        "name": "Dundee Precious Mtl"
+    },
+    {
+        "symbol": "DND.TO",
+        "name": "Dye & Durham Ltd. J"
+    },
+    {
+        "symbol": "DYA.TO",
+        "name": "dynaCERT Inc. J"
+    },
+    {
+        "symbol": "DNG.TO",
+        "name": "Dynacor Gold Mines J"
+    },
+    {
+        "symbol": "DRDR.TO",
+        "name": "MCI Onehealth J SV A"
+    },
+    {
+        "symbol": "DR.TO",
+        "name": "Medical Facilities"
+    },
+    {
+        "symbol": "DIAM.TO",
+        "name": "Star Diamond Corp J"
+    },
+    {
+        "symbol": "EINC.TO",
+        "name": "E Automotive Inc. J"
+    },
+    {
+        "symbol": "ELF.TO",
+        "name": "E-L Financial Corp."
+    },
+    {
+        "symbol": "ELR.TO",
+        "name": "Eastern Platinum J"
+    },
+    {
+        "symbol": "ECN.TO",
+        "name": "ECN Capital Corp."
+    },
+    {
+        "symbol": "ECO.TO",
+        "name": "EcoSynthetix Inc. J"
+    },
+    {
+        "symbol": "ELD.TO",
+        "name": "Eldorado Gold Corp."
+    },
+    {
+        "symbol": "EFL.TO",
+        "name": "Electrovaya Inc."
+    },
+    {
+        "symbol": "EFN.TO",
+        "name": "Element Fleet Mgt"
+    },
+    {
+        "symbol": "EMA.TO",
+        "name": "Emera Incorporated"
+    },
+    {
+        "symbol": "EMP.A.TO",
+        "name": "Empire Co Cl A NV"
+    },
+    {
+        "symbol": "ENB.TO",
+        "name": "Enbridge Inc."
+    },
+    {
+        "symbol": "EDV.TO",
+        "name": "Endeavour Mining Ord"
+    },
+    {
+        "symbol": "EDR.TO",
+        "name": "Endeavour Silver J"
+    },
+    {
+        "symbol": "EFX.TO",
+        "name": "Enerflex Ltd."
+    },
+    {
+        "symbol": "EFR.TO",
+        "name": "Energy Fuels Inc. J"
+    },
+    {
+        "symbol": "ERF.TO",
+        "name": "Enerplus Corporation"
+    },
+    {
+        "symbol": "ENGH.TO",
+        "name": "Enghouse Systems Ltd"
+    },
+    {
+        "symbol": "ESI.TO",
+        "name": "Ensign Engy Services"
+    },
+    {
+        "symbol": "E.TO",
+        "name": "Enterprise Group Inc"
+    },
+    {
+        "symbol": "EGLX.TO",
+        "name": "Enthusiast GameHldgJ"
+    },
+    {
+        "symbol": "ETG.TO",
+        "name": "Entree Resources J"
+    },
+    {
+        "symbol": "EQX.TO",
+        "name": "Equinox Gold Corp. J"
+    },
+    {
+        "symbol": "EQB.TO",
+        "name": "Equitable Group Inc."
+    },
+    {
+        "symbol": "ERD.TO",
+        "name": "Erdene Res Dev J"
+    },
+    {
+        "symbol": "ERO.TO",
+        "name": "Ero Copper Corp. J"
+    },
+    {
+        "symbol": "ESN.TO",
+        "name": "Essential Energy Ltd"
+    },
+    {
+        "symbol": "EPRX.TO",
+        "name": "Eupraxia Pharma J"
+    },
+    {
+        "symbol": "ESM.TO",
+        "name": "Euro Sun Mining J"
+    },
+    {
+        "symbol": "EOX.TO",
+        "name": "Euromax Resources J"
+    },
+    {
+        "symbol": "ET.TO",
+        "name": "Evertz Technologies"
+    },
+    {
+        "symbol": "EXN.TO",
+        "name": "Excellon Resources J"
+    },
+    {
+        "symbol": "MIN.TO",
+        "name": "Excelsior Mining J"
+    },
+    {
+        "symbol": "EIF.TO",
+        "name": "Exchange Income Corp"
+    },
+    {
+        "symbol": "XTC.TO",
+        "name": "Exco Technologies"
+    },
+    {
+        "symbol": "EXRO.TO",
+        "name": "Exro Tech Inc. J"
+    },
+    {
+        "symbol": "EXE.TO",
+        "name": "Extendicare Inc."
+    },
+    {
+        "symbol": "EAGR.TO",
+        "name": "LEAF Mobile Inc. J"
+    },
+    {
+        "symbol": "ELEF.TO",
+        "name": "Silver Elephant J"
+    },
+    {
+        "symbol": "EDT.TO",
+        "name": "Spectral Medical Inc"
+    },
+    {
+        "symbol": "FFH.TO",
+        "name": "Fairfax Financial SV"
+    },
+    {
+        "symbol": "FDGE.TO",
+        "name": "Farmers Edge Inc. J"
+    },
+    {
+        "symbol": "FXC.TO",
+        "name": "FAX Capital J SV"
+    },
+    {
+        "symbol": "FRX.TO",
+        "name": "Fennec Pharmaceut J"
+    },
+    {
+        "symbol": "FTRP.TO",
+        "name": "Field Trip Health J"
+    },
+    {
+        "symbol": "FSZ.TO",
+        "name": "Fiera Capital A SV"
+    },
+    {
+        "symbol": "FIL.TO",
+        "name": "Filo Mining Corp. J"
+    },
+    {
+        "symbol": "FTT.TO",
+        "name": "Finning Int'l Inc."
+    },
+    {
+        "symbol": "FTG.TO",
+        "name": "Firan Tech Grp Corp."
+    },
+    {
+        "symbol": "FAF.TO",
+        "name": "Fire & Flower Hldg J"
+    },
+    {
+        "symbol": "FC.TO",
+        "name": "Firm Cap Mtg Invest "
+    },
+    {
+        "symbol": "FR.TO",
+        "name": "First Majestic J"
+    },
+    {
+        "symbol": "FF.TO",
+        "name": "First Mining Gold J"
+    },
+    {
+        "symbol": "FN.TO",
+        "name": "First Nat'l Fin Corp"
+    },
+    {
+        "symbol": "FM.TO",
+        "name": "First Quantum Mnrl J"
+    },
+    {
+        "symbol": "FSV.TO",
+        "name": "FirstService Corp."
+    },
+    {
+        "symbol": "FCU.TO",
+        "name": "Fission Uranium J"
+    },
+    {
+        "symbol": "FLOW.TO",
+        "name": "Flow Beverage J SV"
+    },
+    {
+        "symbol": "FAR.TO",
+        "name": "Foraco Int'l SA"
+    },
+    {
+        "symbol": "FSY.TO",
+        "name": "Forsys Metals Corp J"
+    },
+    {
+        "symbol": "FTS.TO",
+        "name": "Fortis Inc."
+    },
+    {
+        "symbol": "FVI.TO",
+        "name": "Fortuna Silver Mines"
+    },
+    {
+        "symbol": "FT.TO",
+        "name": "Fortune Minerals J"
+    },
+    {
+        "symbol": "FORZ.TO",
+        "name": "Forza Pete Ltd. J"
+    },
+    {
+        "symbol": "FNV.TO",
+        "name": "Franco-Nevada Corp."
+    },
+    {
+        "symbol": "FVL.TO",
+        "name": "Freegold Ventures J"
+    },
+    {
+        "symbol": "FRU.TO",
+        "name": "Freehold Royalties "
+    },
+    {
+        "symbol": "FRII.TO",
+        "name": "Freshii Inc. Cl A SV"
+    },
+    {
+        "symbol": "LOCL.TO",
+        "name": "Freshlocal Solutn J"
+    },
+    {
+        "symbol": "FEC.TO",
+        "name": "Frontera Energy Corp"
+    },
+    {
+        "symbol": "FURY.TO",
+        "name": "Fury Gld Mines Ltd J"
+    },
+    {
+        "symbol": "FOOD.TO",
+        "name": "Goodfood Market J"
+    },
+    {
+        "symbol": "FORA.TO",
+        "name": "VerticalScope J SV"
+    },
+    {
+        "symbol": "GLXY.TO",
+        "name": "Galaxy Digital J Ord"
+    },
+    {
+        "symbol": "GAU.TO",
+        "name": "Galiano Gold Inc. J"
+    },
+    {
+        "symbol": "GH.TO",
+        "name": "Gamehost Inc."
+    },
+    {
+        "symbol": "GATO.TO",
+        "name": "Gatos Silver, Inc. J"
+    },
+    {
+        "symbol": "GCM.TO",
+        "name": "GCM Mining Corp. "
+    },
+    {
+        "symbol": "GDI.TO",
+        "name": "GDI Integrated SV J"
+    },
+    {
+        "symbol": "GXE.TO",
+        "name": "Gear Energy Ltd."
+    },
+    {
+        "symbol": "GENM.TO",
+        "name": "Generation Mining J"
+    },
+    {
+        "symbol": "GDC.TO",
+        "name": "Genesis Land Dev"
+    },
+    {
+        "symbol": "GEO.TO",
+        "name": "Geodrill Limited Ord"
+    },
+    {
+        "symbol": "WN.TO",
+        "name": "Weston George"
+    },
+    {
+        "symbol": "GFL.TO",
+        "name": "GFL Environment SV"
+    },
+    {
+        "symbol": "GEI.TO",
+        "name": "Gibson Energy Inc"
+    },
+    {
+        "symbol": "GIL.TO",
+        "name": "Gildan Activewear"
+    },
+    {
+        "symbol": "GIVX.TO",
+        "name": "Givex Info Tech Grp"
+    },
+    {
+        "symbol": "GVC.TO",
+        "name": "Glacier Media Inc. J"
+    },
+    {
+        "symbol": "GLG.TO",
+        "name": "GLG Life Tech Corp J"
+    },
+    {
+        "symbol": "GLO.TO",
+        "name": "Global Atomic Corp J"
+    },
+    {
+        "symbol": "GWR.TO",
+        "name": "Global Water Res"
+    },
+    {
+        "symbol": "GMX.TO",
+        "name": "Globex Mining Ent J"
+    },
+    {
+        "symbol": "GSY.TO",
+        "name": "goeasy Ltd."
+    },
+    {
+        "symbol": "GGD.TO",
+        "name": "GoGold Resources J"
+    },
+    {
+        "symbol": "GMTN.TO",
+        "name": "Gold Mountain Mng J"
+    },
+    {
+        "symbol": "GRC.TO",
+        "name": "Gold Springs Res J"
+    },
+    {
+        "symbol": "GSV.TO",
+        "name": "Gold Stand Venture J"
+    },
+    {
+        "symbol": "GGA.TO",
+        "name": "Goldgroup Mining J"
+    },
+    {
+        "symbol": "GOLD.TO",
+        "name": "GoldMining Inc. J"
+    },
+    {
+        "symbol": "XAU.TO",
+        "name": "GoldMoney Inc."
+    },
+    {
+        "symbol": "GDL.TO",
+        "name": "Goodfellow Inc."
+    },
+    {
+        "symbol": "GTE.TO",
+        "name": "Gran Tierra Energy J"
+    },
+    {
+        "symbol": "GPR.TO",
+        "name": "Gt Panther Mining J"
+    },
+    {
+        "symbol": "GWO.TO",
+        "name": "Great-West Lifeco"
+    },
+    {
+        "symbol": "GTMS.TO",
+        "name": "Greenbrook TMS Inc J"
+    },
+    {
+        "symbol": "GRN.TO",
+        "name": "Greenlane Renew J"
+    },
+    {
+        "symbol": "GCG.TO",
+        "name": "Guardian Capital"
+    },
+    {
+        "symbol": "GURU.TO",
+        "name": "GURU Organic Energy"
+    },
+    {
+        "symbol": "GUD.TO",
+        "name": "Knight Therapeutics"
+    },
+    {
+        "symbol": "GBAR.TO",
+        "name": "Monarch Mining CorpJ"
+    },
+    {
+        "symbol": "GRA.TO",
+        "name": "NanoXplore Inc. J"
+    },
+    {
+        "symbol": "GOGR.TO",
+        "name": "Osisko GrnAcq J A RV"
+    },
+    {
+        "symbol": "GRID.TO",
+        "name": "Tantalus Sys Hldg J"
+    },
+    {
+        "symbol": "HAI.TO",
+        "name": "Haivision Systems"
+    },
+    {
+        "symbol": "HMM.A.TO",
+        "name": "Hammond Mfg Cl A SV"
+    },
+    {
+        "symbol": "HPS.A.TO",
+        "name": "Hammond Power A SV"
+    },
+    {
+        "symbol": "HE.TO",
+        "name": "Hanwei Energy Serv"
+    },
+    {
+        "symbol": "HDI.TO",
+        "name": "Hardwoods Dist Inc."
+    },
+    {
+        "symbol": "HWX.TO",
+        "name": "Headwater Expl Inc."
+    },
+    {
+        "symbol": "HBP.TO",
+        "name": "Helix BioPharma"
+    },
+    {
+        "symbol": "HRX.TO",
+        "name": "Heroux-Devtek Inc."
+    },
+    {
+        "symbol": "HEXO.TO",
+        "name": "HEXO Corp."
+    },
+    {
+        "symbol": "HWO.TO",
+        "name": "High Arctic Engy Inc"
+    },
+    {
+        "symbol": "HLF.TO",
+        "name": "High Liner Foods Inc"
+    },
+    {
+        "symbol": "HLS.TO",
+        "name": "HLS Therapeutics J"
+    },
+    {
+        "symbol": "HCG.TO",
+        "name": "Home Capital Group"
+    },
+    {
+        "symbol": "HZM.TO",
+        "name": "Horizonte Min Ord J"
+    },
+    {
+        "symbol": "HBM.TO",
+        "name": "Hudbay Minerals Inc."
+    },
+    {
+        "symbol": "HUT.TO",
+        "name": "Hut 8 Mining Corp J"
+    },
+    {
+        "symbol": "H.TO",
+        "name": "Hydro One Limited"
+    },
+    {
+        "symbol": "IAU.TO",
+        "name": "i-80 Gold Corp. J"
+    },
+    {
+        "symbol": "ITE.TO",
+        "name": "i3 Energy plc J Ord"
+    },
+    {
+        "symbol": "IAG.TO",
+        "name": "iA Financial Corp."
+    },
+    {
+        "symbol": "IMG.TO",
+        "name": "Iamgold Corporation"
+    },
+    {
+        "symbol": "IBG.TO",
+        "name": "IBI Group Inc."
+    },
+    {
+        "symbol": "IFA.TO",
+        "name": "iFabric Corp. J"
+    },
+    {
+        "symbol": "IGM.TO",
+        "name": "IGM Financial Inc."
+    },
+    {
+        "symbol": "III.TO",
+        "name": "Imperial Metals Corp"
+    },
+    {
+        "symbol": "IMO.TO",
+        "name": "Imperial Oil Ltd."
+    },
+    {
+        "symbol": "IMV.TO",
+        "name": "IMV Inc. J"
+    },
+    {
+        "symbol": "IDG.TO",
+        "name": "Indigo Books & Music"
+    },
+    {
+        "symbol": "ISV.TO",
+        "name": "Info Serv Corp. A LV"
+    },
+    {
+        "symbol": "INE.TO",
+        "name": "Innergex Renew Engy"
+    },
+    {
+        "symbol": "IPO.TO",
+        "name": "InPlay Oil Corp. J"
+    },
+    {
+        "symbol": "INQ.TO",
+        "name": "INSCAPE Corp Cl B SV"
+    },
+    {
+        "symbol": "IFC.TO",
+        "name": "Intact Fin Corp."
+    },
+    {
+        "symbol": "IGX.TO",
+        "name": "IntelGenx Tech J"
+    },
+    {
+        "symbol": "IPCI.TO",
+        "name": "IntelliPharma Intl J"
+    },
+    {
+        "symbol": "IFP.TO",
+        "name": "Interfor Corporation"
+    },
+    {
+        "symbol": "IMP.TO",
+        "name": "Intermap Technology"
+    },
+    {
+        "symbol": "IPCO.TO",
+        "name": "Int'l Pete Corp."
+    },
+    {
+        "symbol": "ITH.TO",
+        "name": "Int'l Tower Hill J"
+    },
+    {
+        "symbol": "ITP.TO",
+        "name": "Intertape Polymer"
+    },
+    {
+        "symbol": "IVQ.TO",
+        "name": "Invesque Inc."
+    },
+    {
+        "symbol": "IVN.TO",
+        "name": "Ivanhoe Mines Cl A J"
+    },
+    {
+        "symbol": "JAG.TO",
+        "name": "Jaguar Mining Inc. J"
+    },
+    {
+        "symbol": "JWEL.TO",
+        "name": "Jamieson Wellness"
+    },
+    {
+        "symbol": "JOSE.TO",
+        "name": "Josemaria Res Inc. J"
+    },
+    {
+        "symbol": "JOY.TO",
+        "name": "Journey Energy Inc."
+    },
+    {
+        "symbol": "KBL.TO",
+        "name": "K-Bro Linen Inc."
+    },
+    {
+        "symbol": "KNT.TO",
+        "name": "K92 Mining Inc. J"
+    },
+    {
+        "symbol": "KRN.TO",
+        "name": "Karnalyte Res J"
+    },
+    {
+        "symbol": "KRR.TO",
+        "name": "Karora Res Inc. J"
+    },
+    {
+        "symbol": "KLS.TO",
+        "name": "Kelso Technologies"
+    },
+    {
+        "symbol": "KEL.TO",
+        "name": "Kelt Expl Ltd. J"
+    },
+    {
+        "symbol": "KEY.TO",
+        "name": "Keyera Corp."
+    },
+    {
+        "symbol": "KXS.TO",
+        "name": "Kinaxis Inc. J"
+    },
+    {
+        "symbol": "K.TO",
+        "name": "Kinross Gold Corp."
+    },
+    {
+        "symbol": "KL.TO",
+        "name": "Kirkland Lake Gold J"
+    },
+    {
+        "symbol": "KITS.TO",
+        "name": "Kits Eyecare Ltd."
+    },
+    {
+        "symbol": "KEC.TO",
+        "name": "Kiwetinohk Energy J"
+    },
+    {
+        "symbol": "KSI.TO",
+        "name": "kneat.com, inc. J"
+    },
+    {
+        "symbol": "KEI.TO",
+        "name": "Kolibri Glb Energy J"
+    },
+    {
+        "symbol": "KPT.TO",
+        "name": "KP Tissue Inc."
+    },
+    {
+        "symbol": "LIF.TO",
+        "name": "Labrador Iron Ore"
+    },
+    {
+        "symbol": "LAM.TO",
+        "name": "Laramide Resources J"
+    },
+    {
+        "symbol": "LGO.TO",
+        "name": "Largo Inc. J"
+    },
+    {
+        "symbol": "LAS.A.TO",
+        "name": "Lassonde Ind Cl A SV"
+    },
+    {
+        "symbol": "LB.TO",
+        "name": "Laurentian Bk of Can"
+    },
+    {
+        "symbol": "LNF.TO",
+        "name": "Leon's Furniture Ltd"
+    },
+    {
+        "symbol": "LGD.TO",
+        "name": "Liberty Gold Corp. J"
+    },
+    {
+        "symbol": "LSPK.TO",
+        "name": "LifeSpeak Inc. J"
+    },
+    {
+        "symbol": "LWRK.TO",
+        "name": "LifeWorks Inc."
+    },
+    {
+        "symbol": "LSPD.TO",
+        "name": "Lightspeed Commrc SV"
+    },
+    {
+        "symbol": "LNR.TO",
+        "name": "Linamar Corporation"
+    },
+    {
+        "symbol": "LEV.TO",
+        "name": "Lion Electric Co J"
+    },
+    {
+        "symbol": "LAC.TO",
+        "name": "Lithium Americas J"
+    },
+    {
+        "symbol": "L.TO",
+        "name": "Loblaw Companies Ltd"
+    },
+    {
+        "symbol": "LGT.A.TO",
+        "name": "Logistec Corp. A MV "
+    },
+    {
+        "symbol": "LN.TO",
+        "name": "Loncor Gold Inc. J"
+    },
+    {
+        "symbol": "LPEN.TO",
+        "name": "Loop Energy Inc. J"
+    },
+    {
+        "symbol": "LUC.TO",
+        "name": "Lucara Diamond J"
+    },
+    {
+        "symbol": "LUG.TO",
+        "name": "Lundin Gold Inc. J"
+    },
+    {
+        "symbol": "LUN.TO",
+        "name": "Lundin Mining Corp"
+    },
+    {
+        "symbol": "LXR.TO",
+        "name": "LXRandCo, Inc. J B"
+    },
+    {
+        "symbol": "LABS.TO",
+        "name": "MediPharm LabsCorp J"
+    },
+    {
+        "symbol": "LCFS.TO",
+        "name": "Tidewater Renew J "
+    },
+    {
+        "symbol": "MPC.TO",
+        "name": "Madison Pacific Cl B"
+    },
+    {
+        "symbol": "MAG.TO",
+        "name": "MAG Silver Corp. J"
+    },
+    {
+        "symbol": "MAL.TO",
+        "name": "Magellan Aerospace"
+    },
+    {
+        "symbol": "MG.TO",
+        "name": "Magna Int'l Inc."
+    },
+    {
+        "symbol": "MAGT.TO",
+        "name": "Magnet Forensics SV"
+    },
+    {
+        "symbol": "MEQ.TO",
+        "name": "Mainstreet Equity J"
+    },
+    {
+        "symbol": "MDI.TO",
+        "name": "Major Drilling Group"
+    },
+    {
+        "symbol": "MND.TO",
+        "name": "Mandalay Res Corp J"
+    },
+    {
+        "symbol": "MFC.TO",
+        "name": "Manulife Financial"
+    },
+    {
+        "symbol": "MFI.TO",
+        "name": "Maple Leaf Foods Inc"
+    },
+    {
+        "symbol": "MOZ.TO",
+        "name": "Marathon Gold Corp J"
+    },
+    {
+        "symbol": "MARI.TO",
+        "name": "Marimaca Copper J"
+    },
+    {
+        "symbol": "MRE.TO",
+        "name": "Martinrea Int'l Inc."
+    },
+    {
+        "symbol": "MAV.TO",
+        "name": "MAV Beauty Brands"
+    },
+    {
+        "symbol": "MMX.TO",
+        "name": "Maverix Metals Inc."
+    },
+    {
+        "symbol": "MAW.TO",
+        "name": "Mawson Gold Ltd. J"
+    },
+    {
+        "symbol": "MAXR.TO",
+        "name": "Maxar Technologies"
+    },
+    {
+        "symbol": "MXG.TO",
+        "name": "Maxim Power Corp."
+    },
+    {
+        "symbol": "MBN.TO",
+        "name": "MBN Corporation Eqty"
+    },
+    {
+        "symbol": "MKP.TO",
+        "name": "MCAN Mortgage Corp."
+    },
+    {
+        "symbol": "MCB.TO",
+        "name": "McCoy Global Inc."
+    },
+    {
+        "symbol": "MUX.TO",
+        "name": "McEwen Mining Inc. J"
+    },
+    {
+        "symbol": "MDA.TO",
+        "name": "MDA Ltd. J"
+    },
+    {
+        "symbol": "MDF.TO",
+        "name": "mdf commerce inc."
+    },
+    {
+        "symbol": "MDP.TO",
+        "name": "Medexus Pharma J"
+    },
+    {
+        "symbol": "MVP.TO",
+        "name": "MediaValet Inc. J"
+    },
+    {
+        "symbol": "MDNA.TO",
+        "name": "Medicenna Therapeu J"
+    },
+    {
+        "symbol": "MEG.TO",
+        "name": "MEG Energy Corp."
+    },
+    {
+        "symbol": "MGA.TO",
+        "name": "Mega Uranium Ltd. J"
+    },
+    {
+        "symbol": "MRD.TO",
+        "name": "Melcor Developments"
+    },
+    {
+        "symbol": "MX.TO",
+        "name": "Methanex Corporation"
+    },
+    {
+        "symbol": "MRU.TO",
+        "name": "Metro Inc."
+    },
+    {
+        "symbol": "MBX.TO",
+        "name": "Microbix Biosystms J"
+    },
+    {
+        "symbol": "MSV.TO",
+        "name": "Minco Silver Corp J"
+    },
+    {
+        "symbol": "MSA.TO",
+        "name": "Mineros S.A."
+    },
+    {
+        "symbol": "MOGO.TO",
+        "name": "Mogo Inc. J"
+    },
+    {
+        "symbol": "TPX.A.TO",
+        "name": "MolsonCoors Cda A LV"
+    },
+    {
+        "symbol": "ME.TO",
+        "name": "Moneta Gold Inc. J"
+    },
+    {
+        "symbol": "MRC.TO",
+        "name": "Morguard Corporation"
+    },
+    {
+        "symbol": "MPVD.TO",
+        "name": "Mountain Province J"
+    },
+    {
+        "symbol": "MTY.TO",
+        "name": "MTY Food Group Inc."
+    },
+    {
+        "symbol": "MTL.TO",
+        "name": "Mullen Group Ltd."
+    },
+    {
+        "symbol": "MRV.TO",
+        "name": "Nuvo Pharmaceuticals"
+    },
+    {
+        "symbol": "MNT.TO",
+        "name": "Ry Cdn Mint-Gold ETR"
+    },
+    {
+        "symbol": "MNS.TO",
+        "name": "Ry Cdn Mint-Sil ETR"
+    },
+    {
+        "symbol": "NANO.TO",
+        "name": "Nano One Materials J"
+    },
+    {
+        "symbol": "NA.TO",
+        "name": "Nat'l Bank of Canada"
+    },
+    {
+        "symbol": "NBLY.TO",
+        "name": "Neighbourly Pharm J"
+    },
+    {
+        "symbol": "NEO.TO",
+        "name": "Neo Perform Material"
+    },
+    {
+        "symbol": "NVCN.TO",
+        "name": "Neovasc Inc. J"
+    },
+    {
+        "symbol": "NEPT.TO",
+        "name": "Neptune WellSolutn J"
+    },
+    {
+        "symbol": "NCU.TO",
+        "name": "Nevada Copper Corp J"
+    },
+    {
+        "symbol": "NGD.TO",
+        "name": "New Gold Inc."
+    },
+    {
+        "symbol": "NUAG.TO",
+        "name": "New Pacific Metals J"
+    },
+    {
+        "symbol": "NCM.TO",
+        "name": "Newcrest Mining Ord"
+    },
+    {
+        "symbol": "NGT.TO",
+        "name": "Newmont Corporation"
+    },
+    {
+        "symbol": "NXE.TO",
+        "name": "NexGen Energy Ltd. J"
+    },
+    {
+        "symbol": "NXJ.TO",
+        "name": "NexJ Systems Inc. J"
+    },
+    {
+        "symbol": "NEXT.TO",
+        "name": "NextSource Materl J"
+    },
+    {
+        "symbol": "NFI.TO",
+        "name": "NFI Group Inc."
+    },
+    {
+        "symbol": "NCP.TO",
+        "name": "Nickel CrkPlatinum J"
+    },
+    {
+        "symbol": "NHK.TO",
+        "name": "Nighthawk Gold J"
+    },
+    {
+        "symbol": "NB.TO",
+        "name": "NioCorp Dev Ltd. J"
+    },
+    {
+        "symbol": "NSR.TO",
+        "name": "Nomad Rylty Co"
+    },
+    {
+        "symbol": "NOA.TO",
+        "name": "N.A. Construction"
+    },
+    {
+        "symbol": "NWC.TO",
+        "name": "NW Company VarV&ComV"
+    },
+    {
+        "symbol": "NCF.TO",
+        "name": "Northcliff Res Ltd J"
+    },
+    {
+        "symbol": "NDM.TO",
+        "name": "Nthrn Dynasty Min J"
+    },
+    {
+        "symbol": "NPI.TO",
+        "name": "Northland Power Inc."
+    },
+    {
+        "symbol": "NZC.TO",
+        "name": "NorZinc Ltd. J"
+    },
+    {
+        "symbol": "NOVC.TO",
+        "name": "Nova Cannabis Inc J"
+    },
+    {
+        "symbol": "NG.TO",
+        "name": "NovaGold Resources J"
+    },
+    {
+        "symbol": "NVO.TO",
+        "name": "Novo Resources J"
+    },
+    {
+        "symbol": "NUMI.TO",
+        "name": "Numinus Wellness J"
+    },
+    {
+        "symbol": "NTR.TO",
+        "name": "Nutrien Ltd."
+    },
+    {
+        "symbol": "NVEI.TO",
+        "name": "Nuvei Corp. J SV"
+    },
+    {
+        "symbol": "NVA.TO",
+        "name": "NuVista Energy Ltd."
+    },
+    {
+        "symbol": "SFD.TO",
+        "name": "NXT Energy Solutn J"
+    },
+    {
+        "symbol": "NPK.TO",
+        "name": "Verde Agritech Plc J"
+    },
+    {
+        "symbol": "OBE.TO",
+        "name": "Obsidian Energy Ltd"
+    },
+    {
+        "symbol": "OGC.TO",
+        "name": "OceanaGold Corp."
+    },
+    {
+        "symbol": "OLY.TO",
+        "name": "Olympia Fin Group"
+    },
+    {
+        "symbol": "ONC.TO",
+        "name": "Oncolytics Biotech"
+    },
+    {
+        "symbol": "ONEX.TO",
+        "name": "Onex Corporation SV"
+    },
+    {
+        "symbol": "OTEX.TO",
+        "name": "Open Text Corp"
+    },
+    {
+        "symbol": "OPS.TO",
+        "name": "Opsens Inc. J"
+    },
+    {
+        "symbol": "OPT.TO",
+        "name": "Optiva Inc. J"
+    },
+    {
+        "symbol": "OGD.TO",
+        "name": "Orbit Garant Drill"
+    },
+    {
+        "symbol": "OREA.TO",
+        "name": "Orea Mining Corp J"
+    },
+    {
+        "symbol": "ORE.TO",
+        "name": "Orezone Gold Corp J"
+    },
+    {
+        "symbol": "OGI.TO",
+        "name": "Organigram Hldgs J"
+    },
+    {
+        "symbol": "OLA.TO",
+        "name": "Orla Mining Ltd. J"
+    },
+    {
+        "symbol": "ORV.TO",
+        "name": "Orvana Minerals J"
+    },
+    {
+        "symbol": "OR.TO",
+        "name": "Osisko Gld Royalty"
+    },
+    {
+        "symbol": "OSK.TO",
+        "name": "Osisko Mining Inc. J"
+    },
+    {
+        "symbol": "OVV.TO",
+        "name": "Ovintiv Inc."
+    },
+    {
+        "symbol": "PAAS.TO",
+        "name": "Pan American Silver"
+    },
+    {
+        "symbol": "POU.TO",
+        "name": "Paramount Res Cl A"
+    },
+    {
+        "symbol": "PXT.TO",
+        "name": "Parex Resources J"
+    },
+    {
+        "symbol": "PLC.TO",
+        "name": "Park Lawn Corp."
+    },
+    {
+        "symbol": "PKI.TO",
+        "name": "Parkland Corp."
+    },
+    {
+        "symbol": "PSI.TO",
+        "name": "Pason Systems Inc."
+    },
+    {
+        "symbol": "PAT.TO",
+        "name": "Patriot One Tech J"
+    },
+    {
+        "symbol": "PAY.TO",
+        "name": "Payfare Inc. J Cl A"
+    },
+    {
+        "symbol": "PPL.TO",
+        "name": "Pembina Pipeline"
+    },
+    {
+        "symbol": "PPTA.TO",
+        "name": "Perpetua Res Corp. J"
+    },
+    {
+        "symbol": "PMT.TO",
+        "name": "Perpetual Energy Inc"
+    },
+    {
+        "symbol": "PRU.TO",
+        "name": "Perseus Mining Ord J"
+    },
+    {
+        "symbol": "PET.TO",
+        "name": "Pet Valu Hldgs J"
+    },
+    {
+        "symbol": "PRQ.TO",
+        "name": "Petrus Resources J"
+    },
+    {
+        "symbol": "PEY.TO",
+        "name": "Peyto Expl & Dev "
+    },
+    {
+        "symbol": "PHX.TO",
+        "name": "PHX Energy Services"
+    },
+    {
+        "symbol": "PEA.TO",
+        "name": "Pieridae Energy J"
+    },
+    {
+        "symbol": "PNE.TO",
+        "name": "Pine Cliff Energy J"
+    },
+    {
+        "symbol": "PNP.TO",
+        "name": "Pinetree Capital J"
+    },
+    {
+        "symbol": "PIPE.TO",
+        "name": "Pipestone Energy J"
+    },
+    {
+        "symbol": "PZA.TO",
+        "name": "Pizza Pizza Royalty"
+    },
+    {
+        "symbol": "PTM.TO",
+        "name": "Platinum Grp Metal J"
+    },
+    {
+        "symbol": "PTS.TO",
+        "name": "Points.com Inc. J"
+    },
+    {
+        "symbol": "PIF.TO",
+        "name": "Polaris Infras J"
+    },
+    {
+        "symbol": "PBL.TO",
+        "name": "Pollard Banknote Ltd"
+    },
+    {
+        "symbol": "POM.TO",
+        "name": "Polymet Mining J"
+    },
+    {
+        "symbol": "PNC.A.TO",
+        "name": "Postmedia Ntwrk C J"
+    },
+    {
+        "symbol": "POW.TO",
+        "name": "Power Corp of Cda SV"
+    },
+    {
+        "symbol": "PPR.TO",
+        "name": "Prairie Provident J"
+    },
+    {
+        "symbol": "PSK.TO",
+        "name": "PrairieSky Royalty"
+    },
+    {
+        "symbol": "PD.TO",
+        "name": "Precision Drill Corp"
+    },
+    {
+        "symbol": "PBH.TO",
+        "name": "Premium Brands Hldgs"
+    },
+    {
+        "symbol": "PIC.A.TO",
+        "name": "Premium Income Cl A"
+    },
+    {
+        "symbol": "PVG.TO",
+        "name": "Pretium Resources J"
+    },
+    {
+        "symbol": "PDV.TO",
+        "name": "Prime Dividend Cl A "
+    },
+    {
+        "symbol": "PRMW.TO",
+        "name": "Primo Water Corp."
+    },
+    {
+        "symbol": "PRN.TO",
+        "name": "Profound Medical"
+    },
+    {
+        "symbol": "PMN.TO",
+        "name": "ProMIS Neurosci J"
+    },
+    {
+        "symbol": "PRL.TO",
+        "name": "Propel Holdings J"
+    },
+    {
+        "symbol": "PSD.TO",
+        "name": "Pulse Seismic Inc."
+    },
+    {
+        "symbol": "PYR.TO",
+        "name": "PyroGenesis Cda J"
+    },
+    {
+        "symbol": "PME.TO",
+        "name": "Sentry Prime Metal A"
+    },
+    {
+        "symbol": "QFOR.TO",
+        "name": "Q4 Inc. J"
+    },
+    {
+        "symbol": "QTRH.TO",
+        "name": "Quarterhill Inc."
+    },
+    {
+        "symbol": "QBR.A.TO",
+        "name": "Quebecor Inc Cl A MV"
+    },
+    {
+        "symbol": "QEC.TO",
+        "name": "Questerre Corp. J"
+    },
+    {
+        "symbol": "QSR.TO",
+        "name": "Restaurant Brnd Intl"
+    },
+    {
+        "symbol": "REAL.TO",
+        "name": "Real Matters Inc."
+    },
+    {
+        "symbol": "RECP.TO",
+        "name": "Recipe Unlimited SV"
+    },
+    {
+        "symbol": "RDL.TO",
+        "name": "Redline Commun Grp J"
+    },
+    {
+        "symbol": "RFP.TO",
+        "name": "Resolute Forest Prod"
+    },
+    {
+        "symbol": "RVX.TO",
+        "name": "Resverlogix Corp. J"
+    },
+    {
+        "symbol": "RCG.TO",
+        "name": "RF Capital Group Inc"
+    },
+    {
+        "symbol": "RCH.TO",
+        "name": "Richelieu Hardware"
+    },
+    {
+        "symbol": "RBA.TO",
+        "name": "Ritchie Bros Auction"
+    },
+    {
+        "symbol": "RCI.A.TO",
+        "name": "Rogers Comm Cl A"
+    },
+    {
+        "symbol": "RSI.TO",
+        "name": "Rogers Sugar Inc."
+    },
+    {
+        "symbol": "ROOT.TO",
+        "name": "Roots Corporation"
+    },
+    {
+        "symbol": "RY.TO",
+        "name": "Royal Bank of Canada"
+    },
+    {
+        "symbol": "RTG.TO",
+        "name": "RTG Mining Inc Ord J"
+    },
+    {
+        "symbol": "RBY.TO",
+        "name": "Rubellite Energy J"
+    },
+    {
+        "symbol": "RUS.TO",
+        "name": "Russel Metals Inc."
+    },
+    {
+        "symbol": "RIFI.TO",
+        "name": "Russell InvstFxdIncm"
+    },
+    {
+        "symbol": "RIIN.TO",
+        "name": "Russl InvGlbInfrasPl"
+    },
+    {
+        "symbol": "RIRA.TO",
+        "name": "Russl InvestRl Asset"
+    },
+    {
+        "symbol": "RAY.A.TO",
+        "name": "Stingray Group SV"
+    },
+    {
+        "symbol": "RNW.TO",
+        "name": "TransAlta Renewable"
+    },
+    {
+        "symbol": "SBB.TO",
+        "name": "Sabina Gld & Slvr J"
+    },
+    {
+        "symbol": "SGLD.TO",
+        "name": "Sabre Gold Mines . J"
+    },
+    {
+        "symbol": "SFC.TO",
+        "name": "Sagicor Fin Co"
+    },
+    {
+        "symbol": "SSL.TO",
+        "name": "Sandstorm Gold Ltd."
+    },
+    {
+        "symbol": "STC.TO",
+        "name": "Sangoma Tech Corp."
+    },
+    {
+        "symbol": "SAP.TO",
+        "name": "Saputo Inc."
+    },
+    {
+        "symbol": "SIS.TO",
+        "name": "Savaria Corp. J"
+    },
+    {
+        "symbol": "SCY.TO",
+        "name": "Scandium Int'l Mng J"
+    },
+    {
+        "symbol": "SEA.TO",
+        "name": "Seabridge Gold Inc J"
+    },
+    {
+        "symbol": "SES.TO",
+        "name": "Secure Energy Serv J"
+    },
+    {
+        "symbol": "SEC.TO",
+        "name": "Senvest Capital Inc"
+    },
+    {
+        "symbol": "SBI.TO",
+        "name": "Serabi Gld plc Ord J"
+    },
+    {
+        "symbol": "SJR.B.TO",
+        "name": "Shaw Comm Cl B NV"
+    },
+    {
+        "symbol": "SCL.TO",
+        "name": "Shawcor Ltd."
+    },
+    {
+        "symbol": "S.TO",
+        "name": "Sherritt Int'l Corp"
+    },
+    {
+        "symbol": "SHOP.TO",
+        "name": "Shopify Inc A SV"
+    },
+    {
+        "symbol": "SIA.TO",
+        "name": "Sienna Senior Living"
+    },
+    {
+        "symbol": "SMT.TO",
+        "name": "Sierra Metals Inc. J"
+    },
+    {
+        "symbol": "SW.TO",
+        "name": "Sierra Wireless"
+    },
+    {
+        "symbol": "SBR.TO",
+        "name": "Silver Bear ResJ Ord"
+    },
+    {
+        "symbol": "SVB.TO",
+        "name": "Silver Bull Res J"
+    },
+    {
+        "symbol": "SVM.TO",
+        "name": "Silvercorp Metals J"
+    },
+    {
+        "symbol": "SIL.TO",
+        "name": "SilverCrest Metals J"
+    },
+    {
+        "symbol": "SKE.TO",
+        "name": "Skeena Resources J"
+    },
+    {
+        "symbol": "ZZZ.TO",
+        "name": "Sleep Cntry Cda Hldg"
+    },
+    {
+        "symbol": "SNC.TO",
+        "name": "SNC - Lavalin Group"
+    },
+    {
+        "symbol": "SFTC.TO",
+        "name": "Softchoice Corp J"
+    },
+    {
+        "symbol": "SLS.TO",
+        "name": "Solaris Res Inc. J"
+    },
+    {
+        "symbol": "SOLG.TO",
+        "name": "SolGold plc J Ord"
+    },
+    {
+        "symbol": "SLR.TO",
+        "name": "Solitario Zinc J"
+    },
+    {
+        "symbol": "SFI.TO",
+        "name": "Solution Financial J"
+    },
+    {
+        "symbol": "SHLE.TO",
+        "name": "Source Energy Serv J"
+    },
+    {
+        "symbol": "SGQ.TO",
+        "name": "SouthGobi Res Ltd J"
+    },
+    {
+        "symbol": "SPG.TO",
+        "name": "Spark Power Group J"
+    },
+    {
+        "symbol": "SDE.TO",
+        "name": "Spartan Delta J"
+    },
+    {
+        "symbol": "TOY.TO",
+        "name": "Spin Master Corp SV"
+    },
+    {
+        "symbol": "SII.TO",
+        "name": "Sprott Inc."
+    },
+    {
+        "symbol": "SSRM.TO",
+        "name": "SSR Mining Inc."
+    },
+    {
+        "symbol": "SAU.TO",
+        "name": "St. Augustine Gld J"
+    },
+    {
+        "symbol": "STCK.TO",
+        "name": "Stack Capital Grp J"
+    },
+    {
+        "symbol": "SZLS.TO",
+        "name": "StageZero Life Sci J"
+    },
+    {
+        "symbol": "SMA.TO",
+        "name": "Std Mercntl Acquis A"
+    },
+    {
+        "symbol": "STN.TO",
+        "name": "Stantec Inc."
+    },
+    {
+        "symbol": "SAM.TO",
+        "name": "Starcore Intl Mine J"
+    },
+    {
+        "symbol": "STLC.TO",
+        "name": "Stelco Holdings J "
+    },
+    {
+        "symbol": "SJ.TO",
+        "name": "Stella-Jones Inc."
+    },
+    {
+        "symbol": "STEP.TO",
+        "name": "STEP Energy Serv J"
+    },
+    {
+        "symbol": "STGO.TO",
+        "name": "Steppe Gold Ltd. J"
+    },
+    {
+        "symbol": "SVI.TO",
+        "name": "StorageVault Cda J"
+    },
+    {
+        "symbol": "SMC.TO",
+        "name": "Sulliden Mng Cap J"
+    },
+    {
+        "symbol": "SLF.TO",
+        "name": "Sun Life Fin Inc."
+    },
+    {
+        "symbol": "SU.TO",
+        "name": "Suncor Energy Inc."
+    },
+    {
+        "symbol": "SOY.TO",
+        "name": "SunOpta, Inc."
+    },
+    {
+        "symbol": "SPB.TO",
+        "name": "Superior Plus Corp."
+    },
+    {
+        "symbol": "SXP.TO",
+        "name": "Supremex Inc."
+    },
+    {
+        "symbol": "SGY.TO",
+        "name": "Surge Energy Inc. J"
+    },
+    {
+        "symbol": "SWP.TO",
+        "name": "Swiss Water Coffee "
+    },
+    {
+        "symbol": "SYZ.TO",
+        "name": "Sylogist Ltd."
+    },
+    {
+        "symbol": "SXI.TO",
+        "name": "Synex Internt'l J"
+    },
+    {
+        "symbol": "TBL.TO",
+        "name": "Taiga Building Prod"
+    },
+    {
+        "symbol": "TAIG.TO",
+        "name": "Taiga Motors Corp J"
+    },
+    {
+        "symbol": "TSK.TO",
+        "name": "Talisker Res Ltd J"
+    },
+    {
+        "symbol": "TLO.TO",
+        "name": "Talon Metals Corp. J"
+    },
+    {
+        "symbol": "TVE.TO",
+        "name": "Tamarack Vall Engy J"
+    },
+    {
+        "symbol": "TNX.TO",
+        "name": "Tanzanian Gold J"
+    },
+    {
+        "symbol": "TKO.TO",
+        "name": "Taseko Mines Ltd."
+    },
+    {
+        "symbol": "TRP.TO",
+        "name": "TC Energy Corp"
+    },
+    {
+        "symbol": "TECK.A.TO",
+        "name": "Teck Res Cl A MV"
+    },
+    {
+        "symbol": "TCS.TO",
+        "name": "Tecsys Inc. J"
+    },
+    {
+        "symbol": "TSAT.TO",
+        "name": "Telesat Corp A & B"
+    },
+    {
+        "symbol": "T.TO",
+        "name": "TELUS Corporation"
+    },
+    {
+        "symbol": "TIXT.TO",
+        "name": "TELUS Int'l (Cda) SV"
+    },
+    {
+        "symbol": "TGO.TO",
+        "name": "TeraGo Inc."
+    },
+    {
+        "symbol": "TVK.TO",
+        "name": "TerraVest Industries"
+    },
+    {
+        "symbol": "TBP.TO",
+        "name": "Tetra Bio-Pharma J"
+    },
+    {
+        "symbol": "TFII.TO",
+        "name": "TFI International "
+    },
+    {
+        "symbol": "VLNS.TO",
+        "name": "Valens Co Inc."
+    },
+    {
+        "symbol": "TH.TO",
+        "name": "Theratechnologies"
+    },
+    {
+        "symbol": "THNC.TO",
+        "name": "Thinkific Labs J SV"
+    },
+    {
+        "symbol": "TRI.TO",
+        "name": "Thomson Reuters Corp"
+    },
+    {
+        "symbol": "TWM.TO",
+        "name": "Tidewater MdStrmInfr"
+    },
+    {
+        "symbol": "TLRY.TO",
+        "name": "Tilray, Inc. J Cl 2"
+    },
+    {
+        "symbol": "TF.TO",
+        "name": "Timbercreek Fin Corp"
+    },
+    {
+        "symbol": "TMD.TO",
+        "name": "Titan Medical Inc. J"
+    },
+    {
+        "symbol": "TI.TO",
+        "name": "Titan Mining Corp J"
+    },
+    {
+        "symbol": "X.TO",
+        "name": "TMX Group Limited"
+    },
+    {
+        "symbol": "TPZ.TO",
+        "name": "Topaz Energy Corp."
+    },
+    {
+        "symbol": "TXG.TO",
+        "name": "Torex Gold Res J"
+    },
+    {
+        "symbol": "TIH.TO",
+        "name": "Toromont Industries"
+    },
+    {
+        "symbol": "TD.TO",
+        "name": "T.D. Bank"
+    },
+    {
+        "symbol": "TOT.TO",
+        "name": "Total Engy Serv Inc."
+    },
+    {
+        "symbol": "TXP.TO",
+        "name": "Touchstone Expl Inc."
+    },
+    {
+        "symbol": "TOU.TO",
+        "name": "Tourmaline Oil Corp."
+    },
+    {
+        "symbol": "TA.TO",
+        "name": "TransAlta Corp."
+    },
+    {
+        "symbol": "TRZ.TO",
+        "name": "Transat A.T. V & VV"
+    },
+    {
+        "symbol": "TCL.A.TO",
+        "name": "Transcontinentl A SV"
+    },
+    {
+        "symbol": "TGL.TO",
+        "name": "TransGlobe Energy J"
+    },
+    {
+        "symbol": "TML.TO",
+        "name": "Treasury Metals J"
+    },
+    {
+        "symbol": "TSL.TO",
+        "name": "Tree Island Steel"
+    },
+    {
+        "symbol": "TV.TO",
+        "name": "Trevali Mining J"
+    },
+    {
+        "symbol": "TCW.TO",
+        "name": "Trican Well Service"
+    },
+    {
+        "symbol": "TCN.TO",
+        "name": "Tricon Residential "
+    },
+    {
+        "symbol": "TRL.TO",
+        "name": "Trilogy Intl PartnrJ"
+    },
+    {
+        "symbol": "TMQ.TO",
+        "name": "Trilogy Metals Inc J"
+    },
+    {
+        "symbol": "TFPM.TO",
+        "name": "Triple Flag Precious"
+    },
+    {
+        "symbol": "TSU.TO",
+        "name": "Trisura Group J"
+    },
+    {
+        "symbol": "TLG.TO",
+        "name": "Troilus Gold Corp J"
+    },
+    {
+        "symbol": "TC.TO",
+        "name": "Tucows Inc."
+    },
+    {
+        "symbol": "TRQ.TO",
+        "name": "Turquoise Hill Res "
+    },
+    {
+        "symbol": "TVA.B.TO",
+        "name": "TVA Group Inc. B NV"
+    },
+    {
+        "symbol": "TWC.TO",
+        "name": "TWC Enterprises Ltd."
+    },
+    {
+        "symbol": "UEX.TO",
+        "name": "UEX Corporation J"
+    },
+    {
+        "symbol": "UNS.TO",
+        "name": "Uni-Select Inc."
+    },
+    {
+        "symbol": "UNI.TO",
+        "name": "Unisync Corp."
+    },
+    {
+        "symbol": "UNC.TO",
+        "name": "United Corporations"
+    },
+    {
+        "symbol": "URE.TO",
+        "name": "Ur-Energy Inc. J"
+    },
+    {
+        "symbol": "URB.TO",
+        "name": "Urbana Corporation"
+    },
+    {
+        "symbol": "VNP.TO",
+        "name": "5N Plus Inc."
+    },
+    {
+        "symbol": "VLE.TO",
+        "name": "Valeura Energy Inc J"
+    },
+    {
+        "symbol": "VCM.TO",
+        "name": "Vecima Networks Inc."
+    },
+    {
+        "symbol": "VLN.TO",
+        "name": "Velan Inc. SV"
+    },
+    {
+        "symbol": "VET.TO",
+        "name": "Vermilion Energy Inc"
+    },
+    {
+        "symbol": "VBNK.TO",
+        "name": "VersaBank J"
+    },
+    {
+        "symbol": "VGCX.TO",
+        "name": "Victoria Gld Corp J"
+    },
+    {
+        "symbol": "VMD.TO",
+        "name": "Viemed Healthcare"
+    },
+    {
+        "symbol": "VQS.TO",
+        "name": "VIQ Solutions Inc. J"
+    },
+    {
+        "symbol": "VGZ.TO",
+        "name": "Vista Gold Corp"
+    },
+    {
+        "symbol": "VHI.TO",
+        "name": "Vitalhub Corp. J"
+    },
+    {
+        "symbol": "VIVO.TO",
+        "name": "VIVO Cannabis Inc. J"
+    },
+    {
+        "symbol": "VOYG.TO",
+        "name": "Voyager Dgtl J C&V"
+    },
+    {
+        "symbol": "WJX.TO",
+        "name": "Wajax Corporation"
+    },
+    {
+        "symbol": "WFC.TO",
+        "name": "Wall Financial Corp"
+    },
+    {
+        "symbol": "WM.TO",
+        "name": "Wallbridge Mng Co J"
+    },
+    {
+        "symbol": "WCN.TO",
+        "name": "Waste Connections"
+    },
+    {
+        "symbol": "WBR.TO",
+        "name": "Waterloo Brewing Ltd"
+    },
+    {
+        "symbol": "WELL.TO",
+        "name": "WELL Health Tech J"
+    },
+    {
+        "symbol": "WDO.TO",
+        "name": "Wesdome Gold Mines"
+    },
+    {
+        "symbol": "WFG.TO",
+        "name": "West Fraser Timber"
+    },
+    {
+        "symbol": "WRN.TO",
+        "name": "Wstrn Copper & Gld J"
+    },
+    {
+        "symbol": "WRG.TO",
+        "name": "Western Energy Serv"
+    },
+    {
+        "symbol": "WEF.TO",
+        "name": "Western Forest Prod"
+    },
+    {
+        "symbol": "WRX.TO",
+        "name": "Western Resources J"
+    },
+    {
+        "symbol": "WPRT.TO",
+        "name": "Westport Fuel Sys"
+    },
+    {
+        "symbol": "WTE.TO",
+        "name": "Westshore Terminals"
+    },
+    {
+        "symbol": "WPM.TO",
+        "name": "Wheaton Precious Mtl"
+    },
+    {
+        "symbol": "WCP.TO",
+        "name": "Whitecap Resources J"
+    },
+    {
+        "symbol": "WILD.TO",
+        "name": "WildBrain Ltd Com&VV"
+    },
+    {
+        "symbol": "WLLW.TO",
+        "name": "Willow BioSci Inc. J"
+    },
+    {
+        "symbol": "WCM.A.TO",
+        "name": "Wilmington Cap A NV"
+    },
+    {
+        "symbol": "WPK.TO",
+        "name": "Winpak Limited"
+    },
+    {
+        "symbol": "WSP.TO",
+        "name": "WSP Global Inc."
+    },
+    {
+        "symbol": "XAM.TO",
+        "name": "Xanadu Mines J Ord"
+    },
+    {
+        "symbol": "XBC.TO",
+        "name": "Xebec Adsorption Inc"
+    },
+    {
+        "symbol": "XTG.TO",
+        "name": "Xtra-Gold Resource J"
+    },
+    {
+        "symbol": "YRI.TO",
+        "name": "Yamana Gold Inc."
+    },
+    {
+        "symbol": "YGR.TO",
+        "name": "Yangarra Res Ltd."
+    },
+    {
+        "symbol": "Y.TO",
+        "name": "Yellow Pages Limited"
+    },
+    {
+        "symbol": "YRB.TO",
+        "name": "Yorbeau Resources J"
+    }
+]
