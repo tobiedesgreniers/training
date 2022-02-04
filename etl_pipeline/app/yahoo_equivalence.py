@@ -48,7 +48,7 @@ def validate_name(name):
 def convert_to_yahoo(stocks):
   for i in range(len(stocks)):
     if '.' in stocks[i]['symbol']:
-      stocks[i]['symbol'].replace('.','-')
+      stocks[i]['symbol'] = stocks[i]['symbol'].replace('.','-')
     stocks[i]['symbol'] = stocks[i]['symbol'] + '.TO'
   
   return stocks

@@ -64,7 +64,7 @@
         "name": "Ag Growth Int'l Inc."
     },
     {
-        "symbol": "AGF.B.TO",
+        "symbol": "AGF-B.TO",
         "name": "AGF Management B NV"
     },
     {
@@ -84,7 +84,7 @@
         "name": "Airboss of America J"
     },
     {
-        "symbol": "AKT.A.TO",
+        "symbol": "AKT-A.TO",
         "name": "Akita Drill Cl A NV"
     },
     {
@@ -176,7 +176,7 @@
         "name": "AndlauerHlthcr GrpSV"
     },
     {
-        "symbol": "ADW.A.TO",
+        "symbol": "ADW-A.TO",
         "name": "Andrew Peller A NV"
     },
     {
@@ -332,7 +332,7 @@
         "name": "BCE Inc."
     },
     {
-        "symbol": "BEK.B.TO",
+        "symbol": "BEK-B.TO",
         "name": "Becker Milk Cl B NV"
     },
     {
@@ -384,7 +384,7 @@
         "name": "Boat RockrMedia J SV"
     },
     {
-        "symbol": "BBD.A.TO",
+        "symbol": "BBD-A.TO",
         "name": "Bombardier Cl A MV"
     },
     {
@@ -416,7 +416,7 @@
         "name": "Bridgemarq Rl Est RV"
     },
     {
-        "symbol": "BAM.A.TO",
+        "symbol": "BAM-A.TO",
         "name": "Brookfld Asset A LV"
     },
     {
@@ -576,7 +576,7 @@
         "name": "Cathedral Engy Serv"
     },
     {
-        "symbol": "CCL.A.TO",
+        "symbol": "CCL-A.TO",
         "name": "CCL Industries Cl A"
     },
     {
@@ -612,7 +612,7 @@
         "name": "CES Energy Solutn"
     },
     {
-        "symbol": "GIB.A.TO",
+        "symbol": "GIB-A.TO",
         "name": "CGI Inc. Cl A SV"
     },
     {
@@ -740,11 +740,11 @@
         "name": "Copperleaf Tech J"
     },
     {
-        "symbol": "CSW.A.TO",
+        "symbol": "CSW-A.TO",
         "name": "Corby Spirit&Wine A"
     },
     {
-        "symbol": "CJR.B.TO",
+        "symbol": "CJR-B.TO",
         "name": "Corus Entertnmnt B"
     },
     {
@@ -852,7 +852,7 @@
         "name": "Dominion Lending J A"
     },
     {
-        "symbol": "DII.A.TO",
+        "symbol": "DII-A.TO",
         "name": "Dorel Ind Inc A MV"
     },
     {
@@ -860,7 +860,7 @@
         "name": "DREAM Unltd Cl A SV"
     },
     {
-        "symbol": "DC.A.TO",
+        "symbol": "DC-A.TO",
         "name": "Dundee Corp. Cl A SV"
     },
     {
@@ -928,7 +928,7 @@
         "name": "Emera Incorporated"
     },
     {
-        "symbol": "EMP.A.TO",
+        "symbol": "EMP-A.TO",
         "name": "Empire Co Cl A NV"
     },
     {
@@ -1348,11 +1348,11 @@
         "name": "Haivision Systems"
     },
     {
-        "symbol": "HMM.A.TO",
+        "symbol": "HMM-A.TO",
         "name": "Hammond Mfg Cl A SV"
     },
     {
-        "symbol": "HPS.A.TO",
+        "symbol": "HPS-A.TO",
         "name": "Hammond Power A SV"
     },
     {
@@ -1600,7 +1600,7 @@
         "name": "Largo Inc. J"
     },
     {
-        "symbol": "LAS.A.TO",
+        "symbol": "LAS-A.TO",
         "name": "Lassonde Ind Cl A SV"
     },
     {
@@ -1644,7 +1644,7 @@
         "name": "Loblaw Companies Ltd"
     },
     {
-        "symbol": "LGT.A.TO",
+        "symbol": "LGT-A.TO",
         "name": "Logistec Corp. A MV "
     },
     {
@@ -1824,7 +1824,7 @@
         "name": "Mogo Inc. J"
     },
     {
-        "symbol": "TPX.A.TO",
+        "symbol": "TPX-A.TO",
         "name": "MolsonCoors Cda A LV"
     },
     {
@@ -2168,7 +2168,7 @@
         "name": "Polymet Mining J"
     },
     {
-        "symbol": "PNC.A.TO",
+        "symbol": "PNC-A.TO",
         "name": "Postmedia Ntwrk C J"
     },
     {
@@ -2192,7 +2192,7 @@
         "name": "Premium Brands Hldgs"
     },
     {
-        "symbol": "PIC.A.TO",
+        "symbol": "PIC-A.TO",
         "name": "Premium Income Cl A"
     },
     {
@@ -2240,7 +2240,7 @@
         "name": "Quarterhill Inc."
     },
     {
-        "symbol": "QBR.A.TO",
+        "symbol": "QBR-A.TO",
         "name": "Quebecor Inc Cl A MV"
     },
     {
@@ -2284,7 +2284,7 @@
         "name": "Ritchie Bros Auction"
     },
     {
-        "symbol": "RCI.A.TO",
+        "symbol": "RCI-A.TO",
         "name": "Rogers Comm Cl A"
     },
     {
@@ -2324,7 +2324,7 @@
         "name": "Russl InvestRl Asset"
     },
     {
-        "symbol": "RAY.A.TO",
+        "symbol": "RAY-A.TO",
         "name": "Stingray Group SV"
     },
     {
@@ -2380,7 +2380,7 @@
         "name": "Serabi Gld plc Ord J"
     },
     {
-        "symbol": "SJR.B.TO",
+        "symbol": "SJR-B.TO",
         "name": "Shaw Comm Cl B NV"
     },
     {
@@ -2565,7 +2565,7 @@
     },
     {
         "symbol": "SXI.TO",
-        "name": "Synex Internt'l J"
+        "name": "Synex Renewbl Engy J"
     },
     {
         "symbol": "TBL.TO",
@@ -2600,7 +2600,7 @@
         "name": "TC Energy Corp"
     },
     {
-        "symbol": "TECK.A.TO",
+        "symbol": "TECK-A.TO",
         "name": "Teck Res Cl A MV"
     },
     {
@@ -2712,7 +2712,7 @@
         "name": "Transat A.T. V & VV"
     },
     {
-        "symbol": "TCL.A.TO",
+        "symbol": "TCL-A.TO",
         "name": "Transcontinentl A SV"
     },
     {
@@ -2768,7 +2768,7 @@
         "name": "Turquoise Hill Res "
     },
     {
-        "symbol": "TVA.B.TO",
+        "symbol": "TVA-B.TO",
         "name": "TVA Group Inc. B NV"
     },
     {
@@ -2924,7 +2924,7 @@
         "name": "Willow BioSci Inc. J"
     },
     {
-        "symbol": "WCM.A.TO",
+        "symbol": "WCM-A.TO",
         "name": "Wilmington Cap A NV"
     },
     {

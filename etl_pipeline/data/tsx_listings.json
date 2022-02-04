@@ -1,6 +1,6 @@
 {
     "A": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 96,
         "results": [
             {
@@ -1159,7 +1159,7 @@
         "http_status_code": 200
     },
     "B": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 248,
         "results": [
             {
@@ -3499,6 +3499,10 @@
                     {
                         "symbol": "BEPR",
                         "name": "BromptnFlhrtyCrmPrUn"
+                    },
+                    {
+                        "symbol": "BEPR.U",
+                        "name": "BromptnFlhrtyCrmPrUS"
                     }
                 ]
             },
@@ -4258,7 +4262,7 @@
         "http_status_code": 200
     },
     "C": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 217,
         "results": [
             {
@@ -6915,7 +6919,7 @@
         "http_status_code": 200
     },
     "D": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 78,
         "results": [
             {
@@ -7778,7 +7782,7 @@
         "http_status_code": 200
     },
     "E": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 88,
         "results": [
             {
@@ -8852,6 +8856,10 @@
                     {
                         "symbol": "EXRO",
                         "name": "Exro Tech Inc. J"
+                    },
+                    {
+                        "symbol": "EXRO.WT",
+                        "name": "Exro Tech Inc. J Wt"
                     }
                 ]
             },
@@ -9033,7 +9041,7 @@
         "http_status_code": 200
     },
     "F": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 130,
         "results": [
             {
@@ -10604,7 +10612,7 @@
         "http_status_code": 200
     },
     "G": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 66,
         "results": [
             {
@@ -11375,7 +11383,7 @@
         "http_status_code": 200
     },
     "H": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 153,
         "results": [
             {
@@ -13076,7 +13084,7 @@
         "http_status_code": 200
     },
     "I": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 214,
         "results": [
             {
@@ -15459,7 +15467,7 @@
         "http_status_code": 200
     },
     "J": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 6,
         "results": [
             {
@@ -15530,7 +15538,7 @@
         "http_status_code": 200
     },
     "K": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 19,
         "results": [
             {
@@ -15735,7 +15743,7 @@
         "http_status_code": 200
     },
     "L": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 33,
         "results": [
             {
@@ -16124,7 +16132,7 @@
         "http_status_code": 200
     },
     "M": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 122,
         "results": [
             {
@@ -17503,7 +17511,7 @@
         "http_status_code": 200
     },
     "N": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 61,
         "results": [
             {
@@ -18216,7 +18224,7 @@
         "http_status_code": 200
     },
     "O": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 24,
         "results": [
             {
@@ -18491,7 +18499,7 @@
         "http_status_code": 200
     },
     "P": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 118,
         "results": [
             {
@@ -19982,7 +19990,7 @@
         "http_status_code": 200
     },
     "Q": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 36,
         "results": [
             {
@@ -20389,7 +20397,7 @@
         "http_status_code": 200
     },
     "R": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 70,
         "results": [
             {
@@ -21220,7 +21228,7 @@
         "http_status_code": 200
     },
     "S": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 90,
         "results": [
             {
@@ -22247,7 +22255,7 @@
                 "instruments": [
                     {
                         "symbol": "SXI",
-                        "name": "Synex Internt'l J"
+                        "name": "Synex Renewbl Engy J"
                     }
                 ]
             }
@@ -22255,7 +22263,7 @@
         "http_status_code": 200
     },
     "T": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 104,
         "results": [
             {
@@ -23526,7 +23534,7 @@
         "http_status_code": 200
     },
     "U": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 15,
         "results": [
             {
@@ -23731,7 +23739,7 @@
         "http_status_code": 200
     },
     "V": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 57,
         "results": [
             {
@@ -24336,7 +24344,7 @@
         "http_status_code": 200
     },
     "W": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 29,
         "results": [
             {
@@ -24681,7 +24689,7 @@
         "http_status_code": 200
     },
     "X": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 120,
         "results": [
             {
@@ -25976,7 +25984,7 @@
         "http_status_code": 200
     },
     "Y": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 6,
         "results": [
             {
@@ -26059,7 +26067,7 @@
         "http_status_code": 200
     },
     "Z": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 113,
         "results": [
             {
@@ -27316,7 +27324,7 @@
         "http_status_code": 200
     },
     "0-9": {
-        "last_updated": 1643882113,
+        "last_updated": 1643968508,
         "length": 26,
         "results": [
             {
