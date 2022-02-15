@@ -1,4 +1,4 @@
-from marshmallow import Schema, fields
+from marshmallow import EXCLUDE, Schema, fields, post_load, pre_dump
 
 class Recipe():
     def __init__(self, name, ingredients, instructions):
@@ -10,8 +10,18 @@ class Recipe():
     def __repr__(self):
         return f'Recipe({self.name})'
 
+    def get_name(self):
+        return self.name
+
 
 class RecipeSchema(Schema):
-    name = fields.Dict(fields.Str())
-    ingredients = fields.Dict(fields.List(fields.Str()))
-    instructions = fields.Dict(fields.List(fields.Str()))
+    
+    ingredients = fields.List(fields.Str())
+    instructions = fields.List(fields.Str())
+    name = fields.Str()
+
+    @pre_dump(pass_many=True)
+    def wrap(self, data, context):
+        if context.get("names"):
+            data.get('name')
+        self.name_list.append(data.get("name"))

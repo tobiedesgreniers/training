@@ -8,6 +8,8 @@ flask = "*"
 requests = "*"
 marshmallow = "*"
 apispec = "*"
+pandas = "*"
+pytest = "*"
 
 [dev-packages]
 

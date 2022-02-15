@@ -1,11 +1,11 @@
-from flask import Flask
+import os
 
-from routes.recipe import recipe_bp
+# Local Imports
+from core import create_app
 
-app = Flask(__name__)
-
-app.register_blueprint(recipe_bp, url_prefix='/')
+#config_name = os.getenv('APP_SETTINGS')
+config_name = 'development'
+app = create_app(config_name)
 
 if __name__ == '__main__':
-    app.debug = True
     app.run()

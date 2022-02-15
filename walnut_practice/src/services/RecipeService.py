@@ -1,14 +1,15 @@
 import json
 import os
 
-import models.recipe as Recipe
-from data import data
+from models.recipe import Recipe, RecipeSchema
+import data
 
+schema = RecipeSchema(many=True, context=["NAMES"])
 
 def getNames():
-    names = []
-    for item in data['recipes']:
-        names.append(item['name'])
+    schema = RecipeSchema(many=True)
+    schema.context["names"] = True
+    recipes = schema.dump(data.recipes)
     return {'recipeNames' : names}
 
 
